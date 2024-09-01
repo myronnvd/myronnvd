@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Myron
+- 👀 I’m interested in technologies, entrepreneurship, books, and traveling.  
+- 🌱 I’m currently learning CS, AI, ML, and prototyping. 
+- 💞️ I’m looking to collaborate on learning computer science, building prototypes, and testing ideas. 
+- 📫 You can reach me by email: m.navardi@gmail.com
